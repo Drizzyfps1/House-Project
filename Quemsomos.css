@@ -1,0 +1,26 @@
+body {
+    background-color: rgba(0, 0, 0, 0.871);
+    color: rgb(247, 243, 243);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(247, 244, 244);
+    padding: 26px
+}
+
+h2 {
+    color: rgb(255, 253, 253);
+}
+
+p {
+    font-size: 18px;
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: space -between;
+    background-color: rgb(71, 66, 66);
+    padding: 1.4em;
+}

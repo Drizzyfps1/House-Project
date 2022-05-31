@@ -1,0 +1,294 @@
+body {
+
+    background-color: rgba(0, 0, 0, 0.871);
+    color: rgb(247, 243, 243);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(247, 244, 244);
+    padding: 26px
+}
+
+h2 {
+    color: rgb(255, 253, 253);
+}
+
+p {
+    font-size: 18px;
+}
+
+.image {
+    background-color: rgb(80, 75, 75);
+}
+
+.imagem {
+    border: 10px solid rgba(252, 252, 252, 0.411);
+}
+
+.imagem {
+    padding: 10px
+}
+
+.retangulo1 {
+    position: absolute;
+    width: 1000px;
+    height: 300px;
+    left: 400px;
+    top: 200px;
+    background: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+
+.retangulo2 {
+    position: absolute;
+    width: 1000px;
+    height: 300px;
+    left: 400px;
+    top: 620px;
+    background: rgb(252, 251, 251);
+    border-radius: 20px;
+}
+
+.retangulo3 {
+    position: absolute;
+    width: 1000px;
+    height: 300px;
+    left: 400px;
+    top: 1030px;
+    background: rgb(249, 248, 248);
+    border-radius: 20px;
+}
+
+.retangulo4 {
+    position: absolute;
+    width: 1000px;
+    height: 300px;
+    left: 400px;
+    top: 1435px;
+    background: rgb(255, 252, 252);
+    border-radius: 20px;
+}
+
+.retangulo5 {
+    position: absolute;
+    width: 1000px;
+    height: 300px;
+    left: 400px;
+    top: 1840px;
+    background: rgb(255, 254, 254);
+    border-radius: 20px;
+}
+
+#escrita1 {
+    position: absolute;
+    width: px;
+    height: 58px;
+    left: 440px;
+    top: 180px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    color: #403b3b;
+}
+
+#escrita2 {
+    position: absolute;
+    width: px;
+    height: 58px;
+    left: 440px;
+    top: 600px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    color: #403b3b;
+}
+
+#escrita3 {
+    position: absolute;
+    width: px;
+    height: 58px;
+    left: 440px;
+    top: 1020px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    color: #403b3b;
+}
+
+#escrita4 {
+    position: absolute;
+    width: px;
+    height: 58px;
+    left: 440px;
+    top: 1420px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    color: #403b3b;
+}
+
+#escrita5 {
+    position: absolute;
+    width: px;
+    height: 58px;
+    left: 440px;
+    top: 1820px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    color: #403b3b;
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: space -between;
+    background-color: rgb(71, 66, 66);
+    padding: 1.4em;
+}
+
+.botao1 {
+    position: absolute;
+    width: 199px;
+    height: 39px;
+    left: 760px;
+    top: 400px;
+
+    background: #0B0201;
+    border-radius: 12px;
+}
+
+.botao2 {
+    position: absolute;
+    width: 199px;
+    height: 39px;
+    left: 760px;
+    top: 830px;
+
+    background: #0B0201;
+    border-radius: 12px;
+}
+
+.botao3 {
+    position: absolute;
+    width: 199px;
+    height: 39px;
+    left: 760px;
+    top: 1230px;
+
+    background: #0B0201;
+    border-radius: 12px;
+}
+
+.botao4 {
+    position: absolute;
+    width: 199px;
+    height: 39px;
+    left: 760px;
+    top: 1630px;
+
+    background: #0B0201;
+    border-radius: 12px;
+}
+
+.botao5 {
+    position: absolute;
+    width: 199px;
+    height: 39px;
+    left: 760px;
+    top: 2040px;
+
+    background: #0B0201;
+    border-radius: 12px;
+}
+
+#comprar1 {
+    position: absolute;
+    width: 69px;
+    height: 19px;
+    left: 820px;
+    top: 410px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #ffffff;
+}
+
+#comprar2 {
+    position: absolute;
+    width: 69px;
+    height: 19px;
+    left: 820px;
+    top: 840px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #ffffff;
+}
+
+#comprar3 {
+    position: absolute;
+    width: 69px;
+    height: 19px;
+    left: 820px;
+    top: 1240px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #ffffff;
+}
+
+#comprar4 {
+    position: absolute;
+    width: 69px;
+    height: 19px;
+    left: 820px;
+    top: 1640px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #ffffff;
+}
+
+#comprar5 {
+    position: absolute;
+    width: 69px;
+    height: 19px;
+    left: 820px;
+    top: 2050px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #ffffff;
+}

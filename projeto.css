@@ -1,0 +1,150 @@
+body {
+    background-color: hwb(0 0% 100% / 0.871);
+    color: rgb(243, 239, 239);
+}
+
+h1 {
+    text-align: center;
+    color: #ffffff;
+    padding: 26px
+}
+
+h2 {
+    color: rgb(230, 219, 219);
+}
+
+p {
+    font-size: 18px;
+}
+
+.imagem {
+    background-color: rgb(80, 75, 75);
+}
+
+.imagem {
+    border: 10px solid rgb(0, 0, 0);
+}
+
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space -between;
+    background-color: rgb(71, 66, 66);
+    padding: em;
+
+}
+
+.menu {
+    margin-left: auto;
+    color: rgb(223, 235, 224);
+   
+}
+
+a {
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 20px;
+}
+
+a:hover {
+    color: rgba(252, 252, 252, 0.411);
+
+    background-color: transparent;
+    text-decoration: none;
+
+}
+
+.retangulo {
+    position: absolute;
+    width: 1086px;
+    height: 375px;
+    left: 34px;
+    top: 291px;
+    background: rgba(255, 255, 255, 0.42);
+    border-radius: 20px;
+}
+
+#escrita1 {
+    position: absolute;
+    width: px;
+    height: 58px;
+    left: 34px;
+    top: 0px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    color: #2e2c2c;
+}
+
+#escrita2 {
+    position: absolute;
+    width: 365px;
+    height: 51px;
+    left: 56px;
+    top: 80px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+
+    color: #212121;
+}
+
+#escrita3 {
+    position: absolute;
+    width: 218px;
+    height: 50px;
+    left: 56px;
+    top: 130px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+
+    color: #212121;
+}
+
+#escrita4 {
+
+    position: absolute;
+    width: 278px;
+    height: 51px;
+    left: 56px;
+    top: 180px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+
+    color: #212121;
+}
+
+#escrita5 {
+    position: absolute;
+    width: 365px;
+    height: 51px;
+    left: 56px;
+    top: 230px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+
+    color: #212121;
+}
+.busca{
+    border-radius: 300px;
+
+}
