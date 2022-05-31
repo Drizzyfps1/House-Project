@@ -35,7 +35,7 @@ p {
     width: 1000px;
     height: 300px;
     left: 400px;
-    top: 200px;
+    top: 230px;
     background: rgb(255, 255, 255);
     border-radius: 20px;
 }
@@ -45,7 +45,7 @@ p {
     width: 1000px;
     height: 300px;
     left: 400px;
-    top: 620px;
+    top: 640px;
     background: rgb(252, 251, 251);
     border-radius: 20px;
 }
@@ -55,7 +55,7 @@ p {
     width: 1000px;
     height: 300px;
     left: 400px;
-    top: 1030px;
+    top: 1060px;
     background: rgb(249, 248, 248);
     border-radius: 20px;
 }
@@ -65,7 +65,7 @@ p {
     width: 1000px;
     height: 300px;
     left: 400px;
-    top: 1435px;
+    top: 1490px;
     background: rgb(255, 252, 252);
     border-radius: 20px;
 }
@@ -75,7 +75,7 @@ p {
     width: 1000px;
     height: 300px;
     left: 400px;
-    top: 1840px;
+    top: 1900px;
     background: rgb(255, 254, 254);
     border-radius: 20px;
 }
@@ -85,7 +85,7 @@ p {
     width: px;
     height: 58px;
     left: 440px;
-    top: 180px;
+    top: 200px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
@@ -99,7 +99,7 @@ p {
     width: px;
     height: 58px;
     left: 440px;
-    top: 600px;
+    top: 610px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
@@ -113,7 +113,7 @@ p {
     width: px;
     height: 58px;
     left: 440px;
-    top: 1020px;
+    top: 1040px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
@@ -127,7 +127,7 @@ p {
     width: px;
     height: 58px;
     left: 440px;
-    top: 1420px;
+    top: 1460px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
@@ -141,7 +141,7 @@ p {
     width: px;
     height: 58px;
     left: 440px;
-    top: 1820px;
+    top: 1870px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
@@ -196,7 +196,7 @@ h1 {
     width: 199px;
     height: 39px;
     left: 760px;
-    top: 1630px;
+    top: 1660px;
 
     background: #0B0201;
     border-radius: 12px;
@@ -207,7 +207,7 @@ h1 {
     width: 199px;
     height: 39px;
     left: 760px;
-    top: 2040px;
+    top: 2060px;
 
     background: #0B0201;
     border-radius: 12px;
@@ -266,7 +266,7 @@ h1 {
     width: 69px;
     height: 19px;
     left: 820px;
-    top: 1640px;
+    top: 1670px;
 
     font-family: 'Inter';
     font-style: normal;
@@ -282,7 +282,7 @@ h1 {
     width: 69px;
     height: 19px;
     left: 820px;
-    top: 2050px;
+    top: 2067px;
 
     font-family: 'Inter';
     font-style: normal;
